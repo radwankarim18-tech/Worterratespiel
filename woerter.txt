@@ -1,0 +1,10 @@
+Haus
+Auto
+Computer
+Konsole
+Garten
+Straße
+Baum
+Katze
+Schokolade
+Fernseher
